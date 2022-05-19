@@ -1,0 +1,12 @@
+/Users/tomasdambrauskas/RiderProjects/JobBD/Logic/bin/Debug/net6.0/Logic.deps.json
+/Users/tomasdambrauskas/RiderProjects/JobBD/Logic/bin/Debug/net6.0/Logic.dll
+/Users/tomasdambrauskas/RiderProjects/JobBD/Logic/bin/Debug/net6.0/Logic.pdb
+/Users/tomasdambrauskas/RiderProjects/JobBD/Logic/obj/Debug/net6.0/Logic.csproj.AssemblyReference.cache
+/Users/tomasdambrauskas/RiderProjects/JobBD/Logic/obj/Debug/net6.0/Logic.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tomasdambrauskas/RiderProjects/JobBD/Logic/obj/Debug/net6.0/Logic.AssemblyInfoInputs.cache
+/Users/tomasdambrauskas/RiderProjects/JobBD/Logic/obj/Debug/net6.0/Logic.AssemblyInfo.cs
+/Users/tomasdambrauskas/RiderProjects/JobBD/Logic/obj/Debug/net6.0/Logic.csproj.CoreCompileInputs.cache
+/Users/tomasdambrauskas/RiderProjects/JobBD/Logic/obj/Debug/net6.0/Logic.dll
+/Users/tomasdambrauskas/RiderProjects/JobBD/Logic/obj/Debug/net6.0/refint/Logic.dll
+/Users/tomasdambrauskas/RiderProjects/JobBD/Logic/obj/Debug/net6.0/Logic.pdb
+/Users/tomasdambrauskas/RiderProjects/JobBD/Logic/obj/Debug/net6.0/ref/Logic.dll
